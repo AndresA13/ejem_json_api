@@ -1,0 +1,62 @@
+{
+   "apiName":"AniPoke",
+   "origen":"CDMX",
+   "creted":2022,
+   "figures":[
+     {
+        "id":1,
+        "name":"aquirtle",
+        "type":"tortuguita",
+        "height":"0,5 m",
+        "weight": "9,0 kg",
+        "des":"lanzar chorros de agua a presion",
+        "figure":"https://drive.google.com/drive/u/0/my-drivefile:///C:/Users/nancy/Downloads/img..webp" 
+     } ,
+    {
+        "id":2,
+        "name":"newtwo",
+        "type":"psiquico",
+        "height":"2,0 m",
+        "weight": "122,0 kg",
+        "des":"Mewtwo es un Pokémon legendario y artificial de tipo psíquico " ,
+        "figure":"https://drive.google.com/drive/u/0/my-drivefile:///C:/Users/nancy/Downloads/Mewtwo.webp"
+   },
+   {
+        "id":3,
+        "name":"charizard",
+        "type":"pokemon llama",
+        "height":"1,7 m",
+        "weight": "90,5 kg",
+         "des":"lanza fuego por la boca y es capaz de derretir cualquier cosa",
+         "figure":"https://drive.google.com/drive/u/0/my-drivefile:///C:/Users/nancy/Downloads/charizard.webp"
+   },
+   {
+        "id":4,
+        "name":"mr mime",
+        "type":"barrera",
+        "height":"1,3 m",
+        "weight": "54,3 kg",
+         "des":"solidificar el aire que lo rodea gracias a las yemas de sus dedos",
+         "figure":"https://drive.google.com/drive/u/0/my-drivefile:///C:/Users/nancy/Downloads/mimo.webp"        
+   },
+   {
+        "id":5,
+        "name":"bulbasaur",
+        "type":"semilla",
+        "height":"0,7 m",
+        "weight": "6,9 kg",
+         "des":"mientras mas luz consuma la semilla, mas olor producira cuando se abra",
+         "figure":"https://drive.google.com/drive/u/0/my-drivefile:///C:/Users/nancy/Downloads/bulbasaur.webp" 
+     }
+   ]
+}
+
+
+
+
+
+
+
+
+
+
